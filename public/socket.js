@@ -1,6 +1,6 @@
 import { CLIENT_VERSION, SOCKET } from "./Constants.js";
 
-const socket = io("http://localhost:3000", {
+const socket = io("http://54.180.151.68:3000", {
   query: {
     clientVersion: CLIENT_VERSION,
   },
