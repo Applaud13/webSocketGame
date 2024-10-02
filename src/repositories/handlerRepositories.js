@@ -65,7 +65,7 @@ class handlerRepository {
 
           socket.emit(SOCKET.RESPONSE, {
             status: SOCKET.FAIL,
-            message: "서버 연결이 불안정 합니다",
+            message: `서버 연결이 불안정 합니다. ${gap}(ms)`,
           });
         }
       }
