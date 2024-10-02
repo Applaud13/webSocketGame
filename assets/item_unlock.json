@@ -1,0 +1,92 @@
+{
+  "name": "item_unlock",
+  "version": "1.0.0",
+  "data": [
+    {
+      "id": 100,
+      "stage_id": 1000,
+      "item": [
+        { "item_id": 1, "item_precentage": 0.9 },
+        { "item_id": 2, "item_precentage": 0.1 }
+      ]
+    },
+    {
+      "id": 101,
+      "stage_id": 1001,
+      "item": [
+        { "item_id": 1, "item_precentage": 0.7 },
+        { "item_id": 2, "item_precentage": 0.3 }
+      ]
+    },
+    {
+      "id": 102,
+      "stage_id": 1002,
+      "item": [
+        { "item_id": 1, "item_precentage": 0.5 },
+        { "item_id": 2, "item_precentage": 0.4 },
+        { "item_id": 3, "item_precentage": 0.1 }
+      ]
+    },
+    {
+      "id": 103,
+      "stage_id": 1003,
+      "item": [
+        { "item_id": 1, "item_precentage": 0.2 },
+        { "item_id": 2, "item_precentage": 0.6 },
+        { "item_id": 3, "item_precentage": 0.2 }
+      ]
+    },
+    {
+      "id": 104,
+      "stage_id": 1004,
+      "item": [
+        { "item_id": 2, "item_precentage": 0.6 },
+        { "item_id": 3, "item_precentage": 0.3 },
+        { "item_id": 4, "item_precentage": 0.1 }
+      ]
+    },
+    {
+      "id": 105,
+      "stage_id": 1005,
+      "item": [
+        { "item_id": 2, "item_precentage": 0.3 },
+        { "item_id": 3, "item_precentage": 0.5 },
+        { "item_id": 4, "item_precentage": 0.2 }
+      ]
+    },
+    {
+      "id": 106,
+      "stage_id": 1006,
+      "item": [
+        { "item_id": 2, "item_precentage": 0.1 },
+        { "item_id": 3, "item_precentage": 0.6 },
+        { "item_id": 4, "item_precentage": 0.3 }
+      ]
+    },
+    {
+      "id": 107,
+      "stage_id": 1007,
+      "item": [
+        { "item_id": 3, "item_precentage": 0.4 },
+        { "item_id": 4, "item_precentage": 0.5 },
+        { "item_id": 5, "item_precentage": 0.1 }
+      ]
+    },
+    {
+      "id": 108,
+      "stage_id": 1008,
+      "item": [
+        { "item_id": 4, "item_precentage": 0.8 },
+        { "item_id": 5, "item_precentage": 0.2 }
+      ]
+    },
+    {
+      "id": 109,
+      "stage_id": 1009,
+      "item": [
+        { "item_id": 4, "item_precentage": 0.6 },
+        { "item_id": 5, "item_precentage": 0.4 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "item",
+  "version": "1.0.0",
+  "data": [
+    { "id": 1, "score": 30 },
+    { "id": 2, "score": 90 },
+    { "id": 3, "score": 180 },
+    { "id": 4, "score": 300 },
+    { "id": 5, "score": 450 },
+    { "id": 6, "score": 630 },
+    { "id": 7, "score": 840 },
+    { "id": 8, "score": 1080 },
+    { "id": 9, "score": 1350 },
+    { "id": 10, "score": 1650 }
+  ]
+}
