@@ -11,6 +11,6 @@
     { "id": 1006, "stage": 7, "scorePerTime": 0.007, "clearScore": 2100 },
     { "id": 1007, "stage": 8, "scorePerTime": 0.008, "clearScore": 3400 },
     { "id": 1008, "stage": 9, "scorePerTime": 0.009, "clearScore": 5500 },
-    { "id": 1009, "stage": 10, "scorePerTime": 0.001, "clearScore": "Infinity" }
+    { "id": 1009, "stage": 10, "scorePerTime": 0.01, "clearScore": "Infinity" }
   ]
 }
